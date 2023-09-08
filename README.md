@@ -1,6 +1,6 @@
 # HeroesApp
 
-## DEv
+## DEV
 1. Clonar el proyecto
 2. Ejecuutar ```npm install```
 3. Levantar el backend ```npm run backend```
